@@ -1,0 +1,12 @@
+com/example/shop/repository/UserRepository.class
+com/example/shop/controller/OrderController.class
+com/example/shop/controller/ProductController.class
+com/example/shop/repository/OrderItemRepository.class
+com/example/shop/ShopApplication.class
+com/example/shop/controller/UserController.class
+com/example/shop/model/User.class
+com/example/shop/repository/OrderRepository.class
+com/example/shop/model/Product.class
+com/example/shop/model/Order.class
+com/example/shop/model/OrderItem.class
+com/example/shop/repository/ProductRepository.class
