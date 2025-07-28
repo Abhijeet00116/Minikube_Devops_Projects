@@ -1,0 +1,5 @@
+com/example/demo/DemoApplication.class
+com/example/demo/model/DataEntity.class
+com/example/demo/payload/DataPayload.class
+com/example/demo/controller/UploadController.class
+com/example/demo/repository/DataRepository.class
